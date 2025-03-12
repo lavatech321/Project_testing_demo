@@ -1,6 +1,1 @@
-Apple and Mango
-This is visible in ReadMe.md
-
-one and two and three
-
-four and five
+This repository is created to study GitHub as a fresher
